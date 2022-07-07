@@ -15,3 +15,4 @@ ExecStart=/home/ubuntu/sus-3-live/venv_django/bin/gunicorn \
 
 [Install]
 WantedBy=multi-user.target
+
